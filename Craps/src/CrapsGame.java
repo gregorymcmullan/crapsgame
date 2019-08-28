@@ -7,7 +7,7 @@ static String myChoice;
 		public static void main(String[] args)
 			{
 				// TODO Auto-generated method stub
-
+// i edited this :);
 				Scanner userInputInt = new Scanner(System.in);
 				System.out.println("hi what's your name");
 				myName = userInputInt.nextLine();
